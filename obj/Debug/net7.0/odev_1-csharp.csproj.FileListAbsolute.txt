@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\odev_1-csharp\bin\Debug\net7.0\odev_1-csharp.exe
+C:\Users\user\Desktop\yazılım\odev_1-csharp\bin\Debug\net7.0\odev_1-csharp.deps.json
+C:\Users\user\Desktop\yazılım\odev_1-csharp\bin\Debug\net7.0\odev_1-csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\odev_1-csharp\bin\Debug\net7.0\odev_1-csharp.dll
+C:\Users\user\Desktop\yazılım\odev_1-csharp\bin\Debug\net7.0\odev_1-csharp.pdb
+C:\Users\user\Desktop\yazılım\odev_1-csharp\obj\Debug\net7.0\odev_1-csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\odev_1-csharp\obj\Debug\net7.0\odev_1-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\odev_1-csharp\obj\Debug\net7.0\odev_1-csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\odev_1-csharp\obj\Debug\net7.0\odev_1-csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\odev_1-csharp\obj\Debug\net7.0\odev_1-csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\odev_1-csharp\obj\Debug\net7.0\odev_1-csharp.dll
+C:\Users\user\Desktop\yazılım\odev_1-csharp\obj\Debug\net7.0\refint\odev_1-csharp.dll
+C:\Users\user\Desktop\yazılım\odev_1-csharp\obj\Debug\net7.0\odev_1-csharp.pdb
+C:\Users\user\Desktop\yazılım\odev_1-csharp\obj\Debug\net7.0\odev_1-csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\odev_1-csharp\obj\Debug\net7.0\ref\odev_1-csharp.dll
